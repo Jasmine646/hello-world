@@ -1,2 +1,2 @@
-# hello-world
-first repository
+# Jasmine Reilly
+I am a student at Waterford IT
